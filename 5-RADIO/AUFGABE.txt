@@ -1,0 +1,18 @@
+/*AUFGABE : Title ==> ein radio kanal erstellen 
+  A:
+  -wenn du auf pause klickst Kanal  pausieren  
+  -wenn du auf play klickst  Kanal   abspielen  
+
+  B:
+  Wenn du auf die "back" oder "next" butoon  klickst => Kanal  wechseln und den Namen des Kanals auch 
+
+  C:
+  -input range erstellen damit =>  Lautstärke des Audios ändern 
+  -input range erstellen damit =>  Geschwindigkeit des Audios ändern 
+
+  D:
+  -Das Problem ist : wenn ich mich auf Kanal 3 oder 4 befinde und die Seite neu lade  was passiert => Der Kanal kehrt automatisch
+  zum Ausgangskanal 1 zurück und nicht zum 3 oder 4 
+  -Lösung : ist mit benutzung localstorage
+
+*/

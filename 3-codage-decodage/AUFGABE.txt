@@ -1,0 +1,13 @@
+AUFGABE :
+* Du hast zwei Textareas um ein text zu codieren oder decodieren:
+ -In einer davon kannst du Text eingeben 
+ -in der anderen wird das Ergebnis angezeigt.
+
+*Es gibt auch ein  (Select), in dem du entweder :
+ -coder Text 
+ - oder decoder text auswählen kannst.
+
+
+*PS :
+ -Die Textkodierung erfolgt mit der Methode "btoa"
+ -Die Textdekodierung erfolgt mit der Methode "atob"

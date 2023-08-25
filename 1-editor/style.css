@@ -1,0 +1,46 @@
+nav img{
+    max-width: 64px;
+    max-height: 64px;
+    object-fit: scale-down;
+    border-radius: 50%;
+}
+main{
+    text-align: center;
+}
+#codeTextarea{
+    width: 98%;
+    min-height: 280px;
+    border-radius: 16px;
+    border: 2px solid rgb(131, 131, 131);
+}
+
+#buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+#buttons button{
+    width: 47%; 
+    border-radius: 12px;
+    border: 0px;
+    padding: 10px;
+}
+#removeButton{
+    background-color: rgb(255, 30, 30);
+    color: white;
+}
+
+#playButton{
+    background-color: rgb(39, 39, 39);
+    color: white;
+}
+
+#titleResultP{
+    padding: 10px;
+    border-bottom: 2px solid rgb(131, 131, 131);
+    margin: 8px 0px;
+    font-weight: bold;
+}
+
+#resultDiv{
+    max-width: 100% !important;
+}

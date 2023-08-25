@@ -1,0 +1,11 @@
+AUFGABE:
+
+ title :aktuelle Uhrzeit und Datum in numerischer Form zeigen;
+-oben numerische Uhrzeit  (Stunde:Minute:Sekunde)" => Beispiel: 11:40:36.
+-unten gibt es das Datum im Format Tag-Monat-Jahr => Beispiel: 14-8-2023. 
+- unten Input-Typ 'Farbe' damit kann man die backgroundColor des Body ändern
+
+wie hier :
+11:48:28
+14-8-2023
+(input type color)
